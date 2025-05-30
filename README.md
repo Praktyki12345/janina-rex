@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Salon Fryzjerski Janina Rex</title>
+  <title>Salon Fryzjerski Janina Re</title>
   <style> @media (max-width: 768px) {
   header {
     flex-direction: column;
